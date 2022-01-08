@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abijit
 #### I am third-year B.Tech student
-
+![alt text](http://url/to/IamAbijitSingh.png)
 
 My name is Abijit Singh
 I am currently a third-year student at NIT Srinagar. I am from Jammu. Apart from coding, I am also interested in Web development.

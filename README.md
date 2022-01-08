@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Abijit
+#### I am third-year B.Tech student
+My name is Abijit Singh
+I am currently a third-year student at NIT Srinagar. I am from Jammu. Apart from coding, I am also interested in Web development.
 
-<!--
-**ABIJIT001/ABIJIT001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python / C++/ JAVA / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning REACT 
+- 📫 How to reach me: singhabijit9989@gmail.com 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>]
+(https://github.com/ABIJIT001)
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/Abijit singh/)  
+
+

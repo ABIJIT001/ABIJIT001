@@ -3,7 +3,7 @@
 ![](IamAbijitSingh.png)
 
 My name is Abijit Singh
-I am currently a third-year student at NIT Srinagar. I am from Jammu. Apart from coding, I am also interested in Web development.
+I am currently a third-year student at NIT Srinagar. I am from Jammu. Apart from coding, I am also interested in Machine Learning.
 
 
 

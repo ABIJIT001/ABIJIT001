@@ -1,16 +1,13 @@
 ### Hi there 👋, my name is Abijit
-#### I am third-year B.Tech student
+#### I am Data engineer at ICICI
 ![](IamAbijitSingh.png)
 
 My name is Abijit Singh
-I am currently a third-year student at NIT Srinagar. I am from Jammu. Apart from coding, I am also interested in Machine Learning.
-
-
-
+Data Engineer with strong analytical skills and a passion for solving business problems through data. Experienced in building ETL pipelines, working with large datasets, and collaborating with cross-functional teams to deliver product insights. Proficient in Python, SQL, Azure, and Databricks, with a deep interest in product analytics and user behavior. 
 Skills: Python / C++/ JAVA / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning REACT 
+- 🌱 I’m currently learning ADF 
 - 📫 How to reach me: singhabijit9989@gmail.com 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>]
 (https://github.com/ABIJIT001)
